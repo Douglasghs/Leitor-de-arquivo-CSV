@@ -1,0 +1,10 @@
+C:\Users\Ruann\OneDrive\Documentos\GitHub\Leitor-de-arquivo-CSV\CSV_Read\bin\Debug\CSV_Read.exe.config
+C:\Users\Ruann\OneDrive\Documentos\GitHub\Leitor-de-arquivo-CSV\CSV_Read\bin\Debug\CSV_Read.exe
+C:\Users\Ruann\OneDrive\Documentos\GitHub\Leitor-de-arquivo-CSV\CSV_Read\bin\Debug\CSV_Read.pdb
+C:\Users\Ruann\OneDrive\Documentos\GitHub\Leitor-de-arquivo-CSV\CSV_Read\obj\Debug\CSV_Read.csproj.AssemblyReference.cache
+C:\Users\Ruann\OneDrive\Documentos\GitHub\Leitor-de-arquivo-CSV\CSV_Read\obj\Debug\CSV_Read.Form1.resources
+C:\Users\Ruann\OneDrive\Documentos\GitHub\Leitor-de-arquivo-CSV\CSV_Read\obj\Debug\CSV_Read.Properties.Resources.resources
+C:\Users\Ruann\OneDrive\Documentos\GitHub\Leitor-de-arquivo-CSV\CSV_Read\obj\Debug\CSV_Read.csproj.GenerateResource.cache
+C:\Users\Ruann\OneDrive\Documentos\GitHub\Leitor-de-arquivo-CSV\CSV_Read\obj\Debug\CSV_Read.csproj.CoreCompileInputs.cache
+C:\Users\Ruann\OneDrive\Documentos\GitHub\Leitor-de-arquivo-CSV\CSV_Read\obj\Debug\CSV_Read.exe
+C:\Users\Ruann\OneDrive\Documentos\GitHub\Leitor-de-arquivo-CSV\CSV_Read\obj\Debug\CSV_Read.pdb
