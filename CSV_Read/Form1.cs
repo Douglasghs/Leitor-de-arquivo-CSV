@@ -18,17 +18,11 @@ namespace CSV_Read
         public Form1()
         {
             InitializeComponent();
+        }
+
+        private void button_SelctFile_Click(object sender, EventArgs e)
+        {
             textBox1.Text = Servico_Classe.MostrarArquivCSV();
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-            
-        }
-
-        private void openFileDialog1_FileOk(object sender, CancelEventArgs e)
-        {
-            
         }
     }
 }
